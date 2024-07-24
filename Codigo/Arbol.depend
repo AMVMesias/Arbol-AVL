@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1721770067 source:c:\users\usuario\desktop\arbol gui\main.cpp
+	<windows.h>
+	<iostream>
+	<sstream>
+	<cstring>
+
+1721790354 source:c:\users\mesia\desktop\escritorio\universidad\estructura\parcial 2\arbol gui_v2.1\main.cpp
+	<windows.h>
+	<iostream>
+	<sstream>
+	<cstring>
+
